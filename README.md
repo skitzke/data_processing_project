@@ -126,7 +126,12 @@ PUT /users/promote/{user_id}
 ---
 
 ## Running Tests
-To run the test suite, execute:
+To run the tests, execute:
 ```bash
 pytest tests/
 ```
+Or if you're using Intellij, execute this in the test env terminal first:
+```bash
+pip install httpx
+```
+Then you'll be able to run the tests directly from the file using the play icon next to each test.
