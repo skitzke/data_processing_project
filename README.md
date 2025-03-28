@@ -154,4 +154,4 @@ Then you'll be able to run the tests directly from the file using the play icon 
 
 1. To see the visualization, create users and admins so that the database has data.
 2. On the top right of the image there is a lock button, press it to authenticate as a user or admin.
-3. Once Authenticated, press execute and the chat will appear according to the data in the database.
+3. Once Authenticated, press execute and the graph will appear according to the data in the database.
