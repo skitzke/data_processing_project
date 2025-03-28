@@ -80,6 +80,7 @@ If the local port 8000 does not load, it means there is a conflict in ports, the
 uvicorn app.main:app --reload --port 8080
 ```
 This means the new API accessible link will be at: [http://127.0.0.1:8080](http://127.0.0.1:8080)
+
 API documentation:
 - Swagger UI: [http://127.0.0.1:8080/docs](http://127.0.0.1:8080/docs)
 - Redoc: [http://127.0.0.1:8080/redoc](http://127.0.0.1:8080/redoc)
