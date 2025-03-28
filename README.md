@@ -145,3 +145,13 @@ Or if you're using Intellij, execute this in the test env terminal first:
 pip install httpx
 ```
 Then you'll be able to run the tests directly from the file using the play icon next to each test.
+
+---
+
+## Visualization
+
+![Visualization](https://i.imgur.com/QjaUCK2.png)
+
+1. To see the visualization, create users and admins so that the database has data.
+2. On the top right of the image there is a lock button, press it to authenticate as a user or admin.
+3. Once Authenticated, press execute and the chat will appear according to the data in the database.
